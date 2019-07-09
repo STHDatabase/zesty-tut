@@ -17,7 +17,7 @@ bot.on("message", async message => {
   let args = messageArray.slice(1);
 
   if (cmd === `${prefix}help`){
-    message.channel.send("https://em.0x71.cc/3px7cc");
+    message.channel.send("https://em.0x71.cc/8jvzhr");
   }
 });
 
